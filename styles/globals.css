@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh; 
+    background: linear-gradient(to bottom, #053B48, #A5EEFD); 
+    }
+
+h1 {
+    color: #333;
+    }
+
+button {
+    background: linear-gradient(to right, #001731, #338EF7); margin: 10px;
+    }
